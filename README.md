@@ -1,6 +1,6 @@
 # Machine-Learning-for-Thermoelectrics-Discovery
 
-Published Version avaialable at:- 
+### Publication:- 
 https://www.cambridge.org/core/journals/data-centric-engineering/article/machine-learning-approaches-to-identify-and-design-low-thermal-conductivity-oxides-for-thermoelectric-applications/7086514CABE816961AA8413206FD6977
 
 
